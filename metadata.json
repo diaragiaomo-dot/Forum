@@ -1,0 +1,6 @@
+{
+  "name": "vBulletin Forum CMS",
+  "description": "Un forum CMS completo in stile retro vBulletin, con gestione categorie, discussioni, ruoli utente (Admin, Mod, Member), controllo moderazione, firma personalizzata, ricerca e pannello di amministrazione (Admin CP) integrato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
